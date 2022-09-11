@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://chromax-d.github.io/Easy-bank/)
+- Live Site URL: [Add live site URL here](https://chromax-d.github.io/Easy-bank/)
 
 ## My process
 
@@ -58,8 +58,8 @@ I'll keep on working on my Javascript skills as well as my media query skills an
 
 ## Author
 
-- Website - [Godskey Dawvics](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Name - [Godskey Dawvics
+- Frontend Mentor - [@Chromax-D](https://www.frontendmentor.io/profile/Chromax-D)
+- Twitter - [@GodskeyD](https://www.twitter.com/GodskeyD)
 
 
